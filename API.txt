@@ -1,0 +1,14 @@
+SABnzbd (11600)
+82e63f221e0a1951361a52fccdcbb395
+
+SickBeard (11601)
+15ea956ee4b97bc184de8122850a1365
+
+CouchPotato (11602)
+10d0742057fd410eb1a5b87401ceb14d
+
+Usenet-Crawler
+920ebdcb507fcfcafbaaa1e3cb5b07db
+
+omwtfnzbs
+4a67ccab81bd00320d377f2cf78841df
